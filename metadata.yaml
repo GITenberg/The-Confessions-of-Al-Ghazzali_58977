@@ -1,0 +1,38 @@
+_repo: The-Confessions-of-Al-Ghazzali_58977
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Field, Claud
+    alias: Field, Claud Herbert Alwyn
+    birthdate: 1863
+    deathdate: 1941
+    gutenberg_agent_id: '26394'
+    url: http://www.gutenberg.org/2009/agents/26394
+creator:
+  author:
+    agent_name: Al-Ghazzali, Mohammed
+    gutenberg_agent_id: '50245'
+    url: http://www.gutenberg.org/2009/agents/50245
+  editors:
+  - agent_name: Kapadia, S. A.
+    gutenberg_agent_id: '50246'
+    url: http://www.gutenberg.org/2009/agents/50246
+  - agent_name: Cranmer-Byng, L. (Launcelot)
+    alias: Cranmer-Byng, Launcelot Alfred
+    birthdate: 1872
+    deathdate: 1945
+    gutenberg_agent_id: '215'
+    url: http://www.gutenberg.org/2009/agents/215
+description: ''
+gutenberg_issued: '2019-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58977'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Confessions of Al Ghazzali
+url: http://www.gutenberg.org/ebooks/58977
